@@ -1,0 +1,830 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Contact Us - Yiwu Desai Ornaments Co.,Limited</title>
+
+<meta name="description" content="Get in touch with the key contacts of Yiwu Desai Ornaments Co.,Limited" />
+<meta name="keywords" content="Contact Yiwu Desai Ornaments Co.,Limited" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+
+
+<link rel="canonical" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/ContactUs.htm" />
+  
+
+
+<link rel="stylesheet" type="text/css" href="http://s.globalsources.com/gsol/en/clean/static/s/BASE.CSS?R=20140221V1" /><link rel="stylesheet" type="text/css" href="http://s.globalsources.com/gsol/en/clean/static/s/SUPPLIER.CSS?R=20140221V1" />
+
+</head>
+<body>
+
+
+
+
+<div class="mw_headNav">
+  <div class="navWrap clearfix">
+    <a class="egsLogo fl" title="Global Sources" href="http://www.globalsources.com">
+	  <img width="128" height="20" title="Manufacturers & Suppliers" alt="Global Sources" src="http://s.globalsources.com/gsol/en/clean/images/supplier/EG-LOGO.PNG" />
+	</a>
+    
+
+<div class="GS_globalNav fr">
+
+<ul class="GS_userNav">
+
+	<li class="GS_userNav_list"><a href="http://www.globalsources.com/gsol/GeneralManager?&design=clean&language=en&page=LoginFromReferer" class="GS_userNav_item userName">Login</a> |</li>
+ 	<li class="GS_userNav_list">
+    	<a href="#" class="GS_userNav_item">Register <span class="downArrow"></span></a> |
+        <ul class="GS_globalNav_pop GS_userNav_pop GS_reg_pop">
+        	<li><a href="https://login.globalsources.com/sso/GeneralManager?action=RegisterGSOLUser&userTemplate=GSOLUSERMAG">Buyer</a></li>
+            <li><a href="https://cn.sellproducts.globalsources.com/RegisterSYP.jsp?Reg_path=eGSOLGlobalNav&source=eGSOLGlobalNav">Supplier</a></li>
+        </ul>
+     </li>
+
+<li class="GS_userNav_list"><a href="http://www.globalsources.com/gsol/GeneralManager?action=ReMap&where=GoInquiryBasket" class="GS_userNav_item">Inquiry Basket</a></li>
+</ul>
+</div><!-- end div class="gNav fr" -->
+     
+	<div class="egSearch fr"><form id="headerSearchBar" autocomplete="off" name="searchbox" method="get" action="http://www.globalsources.com/gsol/GeneralManager" class="" onsubmit="return false;">
+	  <input id="gsolmwquery" class="ui_input_tip kwSearch fl inputTip" type="text" autocomplete="off" onkeypress="if(event.keyCode==13){setUpMWHeaderSearch();return false;}" value="Search products in English in Global Sources" tip="Search products in English in Global Sources" tipcls="inputTip" name="query" />
+      <input onclick="setUpMWHeaderSearch();return false;" id="keywordBtnSearch" class="egsSbtn fl" type="submit" value="Search" name="keywordBtn" />
+	  <input type="hidden" name="point_search" value="on" />
+	  <input type="hidden" name="page" value="search/ProductSearchResults" />
+	  <input type="hidden" name="product_search" value="off" />
+	  <input type="hidden" name="supplier_search" value="off" />
+	  <input type="hidden" name="article_search" value="off" />
+	  <input type="hidden" name="apclick"  id="apclick"  value=""/>
+	  <input type="hidden" name="qType"  id="qType"  value=""/>
+	  <input type="hidden"   id="changeOption"  value="F"/>
+	  <span id="kwdiv"></span>
+	  <span id="matchdiv"></span>
+	  <input type="hidden" name="type" value="new" />
+	  <input type="hidden" name="point_id" value="3000000149681" />
+	  <input type="hidden" name="catalog_id" value="2000000003844" />
+	  <input type="hidden" name="from" value="" />
+	  <input type="hidden" name="loc" value="t" />
+	  <input type="hidden" name="AGG" value="N" />
+	</form>
+    </div><!--div class="egSearch fr" -->
+  </div><!-- end div class="navWrap clearfix" -->
+</div><!-- end div class="mw_headNav" --> 		
+
+<script type="text/javascript">
+var pageType = 'PRODUCT';
+</script>
+<div class="mw_wrapper grayTpl">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="spNameInfo">
+<div class="spNameInfoLeft">
+<div class="spNameBox">
+  <p class="spName">Yiwu Desai Ornaments Co.,Limited</p>
+
+
+
+<p class="spSecTit">100 trendy styles monthly to dazzle your customers</p>
+<p class="spTopUsp"><strong>10 designers | 1,500 assembly workers | 18,000sqm factory</strong></p>	    
+	    
+
+
+</div>
+</div>
+
+<div class="spVerInfo">
+  <div class="verified"><a href="http://www.globalsources.com/SITE/QUALITY.HTM?source=Supplier_pages" class="spStar STARSM6 ui_popup_window" windowoptions="width=640,height=520" title="Ranking is based on the price paid to show more information and receive better exposure"></a><span class="memberSince"><sub class="spNum num3"></sub><sup class="spStype rd"></sup><sub class="year"></sub></span><span class="verifiedSupplierIco" title="This supplier has been verified by Global Sources. Our verification process includes 3 or more on-site visits or calls; financial checks; and more."></span>
+  <a class="vsTxt ui_popup_window" windowoptions="width=640,height=520" title="This supplier has been verified by Global Sources. Our verification process includes 3 or more on-site visits or calls; financial checks; and more." href="http://www.globalsources.com/SITE/QUALITY.HTM?source=Supplier_pages">Verified Supplier</a>
+  </div>
+</div><!-- end div class="spVerInfo" -->
+</div><!-- end div class="spNameInfo" -->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="spNav clearfix"><li class="spNavLi ui_hover" hovercls="spCurNav">
+		<a class="spNavA" title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Homepage.htm">Home</a>
+		</li><li class="spNavLi ui_hover" hovercls="spHovNav">
+	<a class="spNavA" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000149681/ALL.htm">Product List
+	<span class="downArrow"></span></a>
+	<ul class="navL2 navPcats dotList"><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000189043/24465/Polyester-scarf.htm">Polyester scarves</a>(398)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000150823/12395/Snood-scarf.htm">Snood scarves</a>(139)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000201100/12060/Painting.htm">Paintings</a>(78)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000199853/30365/Cotton-scarf.htm">Cotton scarves</a>(75)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000207471/33086/Novelty-eraser.htm">Novelty erasers</a>(61)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000189041/24464/Acrylic-scarf.htm">Acrylic scarves</a>(60)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000199855/30364/Viscose-scarf.htm">Viscose scarves</a>(54)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000191323/25906/Leather-tote-bag.htm">Leather tote bags</a>(48)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000196944/22226/Coin-purse.htm">Coin purses</a>(47)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000185422/23692/Purse-hanger.htm">Purse hangers</a>(44)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000208001/22227/Polyester-cosmetic-bag.htm">Polyester cosmetic bags</a>(32)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000187523/24122/Silk-scarf.htm">Silk scarves</a>(32)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000196949/22228/Womens-wallet.htm">Women's wallets</a>(30)</li><li><a title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000208000/24318/PVC-cosmetic-bag.htm">PVC cosmetic bags</a>(29)</li><li class="topSeeAll"><a href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Showroom/3000000149681/ALL.htm">See all products >></a></li>
+	</ul>
+	</li><li class="spNavLi ui_hover" hovercls="spCurNav">
+<a class="spNavA" title="" href="http://ydch.manufacturer.globalsources.com/si/6008843728893/CompanyProfile.htm">Company Information
+</a>
+</li><li class="spNavLi spCurNav"><a class="spNavA" title="" href="#">Contact Us</a></li></ul>
+
+
+  <div class="c6 mt10"><a href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Homepage.htm">Home</a> &gt; Contact Us</div>
+  <div class="mt10 clearfix">
+    <div class="spLeftCol fl">
+	  <div class="serviceBox">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="serviceList">
+		<li id="___UI_trigger0_creditPop" class="UItrigger_creditPop" data_img="http://s.globalsources.com/gsol/en/clean/images/i/XINHUAXIN.JPG"	data_href="http://ydch.manufacturer.globalsources.com/si/6008843728893/CreditProfile.htm">
+		<img class="serviceIcon_s creditCheckIco_s" title="This supplier has a business registration profile independently verified with relevant government agencies" alt="This supplier has a business registration profile independently verified with relevant government agencies" src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" />
+		<span>Credit Check</span>
+        </li></ul>
+
+  <div class="csFst">
+    <div class="csTit">Contact Supplier:</div>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><a class="inquireNowBtn" title="Inquire Now" href="http://www.globalsources.com/gsol/GeneralManager?action=GetInquireNowBasket&page=inquiry/InqForm&supplier_id=6008843728893&inquiry_path=InquireNow_SupplierPage_Left&source=GSOL&doc_class_group=RFI&inqflow_path=NLI"></a></p><p class="addToBasketIco"><a href="http://www.globalsources.com/gsol/GeneralManager?action=AddInquiryItem&redirect_to=this&supplier_id=6008843728893">Add to basket</a></p>
+	
+
+
+
+
+
+
+
+
+<script>var isIMLogin="N"; var imLoginUrl = "https://login.globalsources.com/sso/GeneralManager?action=Login&application=GSOL&appURL=http%3A%2F%2Fwww.globalsources.com%2Fgsol%2FGeneralManager%3F%26design%3Dclean%26language%3Den%26supplier_id%3D6008843728893%26action%3DGetSupplier%26page%3Dsupplier%2FContactUs%26hostname%3Dwww.globalsources.com";</script>
+    <p class="chatIcos clearfix ">
+	  <em class="c6 fl">Chat:</em><a title="skype" href="javascript:void(0);" onclick="javascript:checkIM('http://gsim.globalsources.com/gsim/skype/invoke.do?entryType=SKYPE&userId=lindahappybaby&supplierId=6008843728893&callKeyLink=null&IMSource=supplierhome&supplierName=',460,455,'gsim','Yiwu Desai Ornaments Co.,Limited', '', '');"><img src="http://mystatus.skype.com/smallicon/lindahappybaby" border="0" alt="skype" /></a><a title="msn" href="javascript:void(0);" onclick="javascript:checkIM('http://gsim.globalsources.com/gsim/msn/invoke.do?entryType=MSN&userId=lindahappybaby@hotmail.com&supplierId=6008843728893&callKeyLink=null&IMSource=supplierhome&supplierName=',460,455,'gsim','Yiwu Desai Ornaments Co.,Limited', '', '');"><img src="http://s.globalsources.com/gsol/en/clean/images/MSN_ICON.GIF" border="0" alt="msn" /></a>
+		<a title="qq" href="javascript:void(0);" onclick="javascript:checkIM('http://gsim.globalsources.com/gsim/qq/invoke.do?entryType=QQ&userId=672620084&supplierId=6008843728893&callKeyLink=null&IMSource=supplierhome&supplierName=',460,455,'gsim','Yiwu Desai Ornaments Co.,Limited', '', '');"><img src="http://wpa.qq.com/pa?p=1:672620084:4" border="0" alt="qq" /></a>
+		</p>	
+
+  </div>
+  <div class="csSec">
+    
+
+
+<p class="bold">Ms&nbsp;Linda</p><p>Sales mananger</p>
+  </div>
+  
+
+
+
+
+
+
+
+<div class="fsBox">
+<div class="csTit">Follow Supplier:</div><p class="follow mt10"><a class="followSupIco" title="Follow me" onclick="decideWhereToGo('/gsol/GeneralManager?&design=clean&language=en&page=prodalert/SAMarketing&source=Supplier_pages&supplier_id=6008843728893&catalog_id=2000000003844&point_id=3000000149681&SAFrom=','','500',location.hostname,'6008843728893');return false;"  href="javascript:void(0)">Follow Me</a></p>
+</div>
+
+</div>
+	</div>
+	<div class="spRightCol fr">
+	  
+
+<div class="contactUs">
+  <h1 class="catTitle">Contact Us</h1>
+  
+  <div class="mt10">
+    <h2 class="proCatTitle">Main</h2>
+	<div class="proDetCont mt10">
+	<div class="clearfix mt5">
+	  <p class="fl c6 proDetTit">Company:</p>
+	  <p class="fl ml5">Yiwu Desai Ornaments Co.,Limited</p>
+	</div>
+		<div class="clearfix mt5">
+          <p class="fl c6 proDetTit">Address:</p>
+          <p class="fl ml5">Rm 1202, 12/F, Tung Chun Comm Ctre,, 438-444 Shanghai Street, Kowloon</p>
+        </div>
+	    <div class="clearfix mt5">
+		  <p class="fl c6 proDetTit">City:</p>
+		  <p class="fl ml5">Yiwu</p>
+		</div><div class="clearfix mt5">
+		  <p class="fl c6 proDetTit">Country:</p>
+		  <p class="fl ml5">China </p>
+		</div>
+		<div class="clearfix mt5">
+		  <p class="fl c6 proDetTit">State/Province:</p>
+		  <p class="fl ml5">Zhejiang</p>
+		</div>
+		<div class="clearfix mt5">
+		  <p class="fl c6 proDetTit">Zip/Postal Code:</p>
+		  <p class="fl ml5">322000</p>
+		</div>
+		<div class="clearfix mt5">
+		  <p class="fl c6 proDetTit">Phone Number:</p>
+		  <p class="fl ml5">
+&nbsp;(86&nbsp;579)&nbsp;85587377
+
+&nbsp;(86&nbsp;579)&nbsp;85585551
+
+		  </p>
+		</div>
+		<div class="clearfix mt5">
+		  <p class="fl c6 proDetTit">Fax Number:</p>
+		  <p class="fl ml5">
+&nbsp;(86&nbsp;579)&nbsp;85585667
+
+		  </p>
+		 </div>
+	    <div class="clearfix mt5">
+		  <p class="fl c6 proDetTit">Homepage Address:</p>
+		  <p class="fl ml5"><a href="http://ydch.manufacturer.globalsources.com/si/6008843728893/Homepage.htm">http://www.globalsources.com/ydch.co</a></p>
+		</div>
+		    <div class="clearfix mt5">
+			  <p class="fl c6 proDetTit">Other Homepage Address:</p>
+			  <p class="fl ml5">www.ydjewelry.com</p>
+			</div>
+                        <div class="clearfix mt5">
+						<p class="fl c6 proDetTit">Global Sources E-mail Address:</p>
+						<p class="fl ml5"><img src="http://s.globalsources.com/IMAGES/SPL/STR/893/EG9876584732104011h6008843728893.png" /></p>
+						</div>
+                        <div class="clearfix mt5">
+						<p class="fl c6 proDetTit">Non-Global Sources E-mail Address:</p>
+						<p class="fl ml5"><img src="http://s.globalsources.com/IMAGES/SPL/STR/893/ESvip0163017myd458066008843728893.png" /></p>
+						</div>
+
+
+
+
+
+
+
+
+<script>var isIMLogin="N"; var imLoginUrl = "https://login.globalsources.com/sso/GeneralManager?action=Login&application=GSOL&appURL=http%3A%2F%2Fwww.globalsources.com%2Fgsol%2FGeneralManager%3F%26design%3Dclean%26language%3Den%26supplier_id%3D6008843728893%26action%3DGetSupplier%26page%3Dsupplier%2FContactUs%26hostname%3Dwww.globalsources.com";</script>
+	<div class="clearfix mt5">
+	  <p class="fl c6 proDetTit">Chat:</p>
+	  <p class="chatIcos clearfix fl ml5"><a title="skype" href="javascript:void(0);" onclick="javascript:checkIM('http://gsim.globalsources.com/gsim/skype/invoke.do?entryType=SKYPE&userId=lindahappybaby&supplierId=6008843728893&callKeyLink=null&IMSource=supplierhome&supplierName=',460,455,'gsim','Yiwu Desai Ornaments Co.,Limited', '', '');"><img src="http://mystatus.skype.com/smallicon/lindahappybaby" border="0" alt="skype" /></a><a title="qq" href="javascript:void(0);" onclick="javascript:checkIM('http://gsim.globalsources.com/gsim/qq/invoke.do?entryType=QQ&userId=672620084&supplierId=6008843728893&callKeyLink=null&IMSource=supplierhome&supplierName=',460,455,'gsim','Yiwu Desai Ornaments Co.,Limited', '', '');"><img src="http://wpa.qq.com/pa?p=1:672620084:4" border="0" alt="qq" /></a><a title="msn" href="javascript:void(0);" onclick="javascript:checkIM('http://gsim.globalsources.com/gsim/msn/invoke.do?entryType=MSN&userId=lindahappybaby@hotmail.com&supplierId=6008843728893&callKeyLink=null&IMSource=supplierhome&supplierName=',460,455,'gsim','Yiwu Desai Ornaments Co.,Limited', '', '');"><img src="http://s.globalsources.com/gsol/en/clean/images/MSN_ICON.GIF" border="0" alt="msn" /></a></p>
+	</div>	
+
+	</div>
+  </div><div class="mt20">
+		  
+          <h2 class="proCatTitle">1st Factory Address</h2>
+		  <div class="proDetCont mt10">
+		      <div class="clearfix mt5">
+		        <p class="fl c6 proDetTit">Name :</p>
+			    <p class="fl ml5">HK Yida Accessories Co., Ltd</p>
+			  </div>
+				  <div class="clearfix mt5">
+				    <p class="fl c6 proDetTit">City :</p>
+				    <p class="fl ml5">Zhejiang</p>
+				  </div>
+				  <div class="clearfix mt5">
+				    <p class="fl c6 proDetTit">Country/Region:</p>
+				    <p class="fl ml5">China (mainland)</p>
+				  </div>
+				  <div class="clearfix mt5">
+				    <p class="fl c6 proDetTit">State/Province:</p>
+				    <p class="fl ml5">Zhejiang</p>
+				  </div><div class="clearfix mt5">
+				    <p class="fl c6 proDetTit">Contact Person:</p>
+					<p class="fl ml5">Ms&nbsp;Linda</p>
+				  </div>
+			      <div class="clearfix mt5">
+				    <p class="fl c6 proDetTit">Job Title:</p>
+					<p class="fl ml5">Sales Manager</p>
+				  </div>
+			      <div class="clearfix mt5">
+				    <p class="fl c6 proDetTit">Department:</p>
+					<p class="fl ml5">International Sales Department</p>
+				  </div>
+					  <div class="clearfix mt5">
+					  <p class="fl c6 proDetTit">E-mail Address :</p>
+					  <p class="fl ml5 tsEmail"><IMG src='http://s.globalsources.com/IMAGES/SPL/STR/893/EE9876584732104011h6008843728893.png'><br>
+					  </p>
+                      </div></div></div><div class="mt20"><h2 class="proCatTitle">Key Contact Person</h2><p class="contName ml10 mt10">Ms&nbsp;Linda</p><p class="ml10">Sales mananger,&nbsp;Internation department</p><p class="tsEmail ml10"><IMG src='http://s.globalsources.com/IMAGES/SPL/STR/893/EEvip0163017myd1686008843728893.png'><br></p></div>
+  <div class="mt20">
+    <h2 class="proCatTitle">Verified Business Registration Details</h2>
+    <div class="mt10 ml10"><p>
+	    <em class="c6">Registered Company:</em><a title="" href="https://www.icris.cr.gov.hk/csci/cns_basic_comp.do">Yiwu Desai Ornaments Co., Limited</a></p><p><em class="c6">Business Registration Number: </em>60719407-000-12-12-0</p><p><em class="c6">Company Registration Address: </em>Rm 1202, 12/F, Tung Chun Commercial Centre,438-444 Shanghai Street, Kowloon</p><p class="cuNotice">* In some jurisdictions, company names and addresses are registered in Chinese only.</p>
+    </div>
+  </div>
+  <div class="spContact clearfix">
+    <h2 class="proCatTitle">Send Inquiry</h2>
+	<div class="spSendInquire">
+	<form name="msg" method="post" onsubmit="return false;">
+	  <div class="inquireBox">
+	    <div id="tips_one" class="mtips" style="display: none;">
+		  <span class="mtipstop"></span>
+		  <div class="mtipsbot">
+		    <dl>
+			  <dt class="bold">For a better response,</dt>
+			  <dd>Introduce yourself and your company</dd>
+			  <dd>Indicate your requirements</dd>
+			</dl>
+			<p class="mtipsl">
+			  <a class="ui_popup_window" windowoptions="width=680,height=440" href="http://www.globalsources.com/gsol/GeneralManager?&design=clean&language=en&page=inquiry/SampleRFI">View sample</a>
+			</p>
+			<p class="mtipstip">Enter between 20 to 1500 characters</p>
+		  </div>
+		</div>
+		<p class="inquireTit">Send your inquiry direct to this supplier</p>
+		
+	    <textarea id="inqmsgtextarea" class="inquireCont" cols="5" rows="10" name="inq_msg" onfocus="if(this.value=='Please enter in English.'){this.value='';this.style.color='#000'}" onblur="if(this.value==''){this.value='Please enter in English.';this.style.color='#999'}">Please enter in English.</textarea>
+		<input class="continueBtn" type="button" value="Continue" name="continueInq" onclick="javascript:checkMsg('http://www.globalsources.com/gsol/GeneralManager?&design=clean&language=en&action=GetInquireNowBasket&page=inquiry/InqForm&inquiry_path=InquireNow_SupplierPage_Static&supplier_id=6008843728893&source=GSOL&doc_class_group=RFI&inqflow_path=NLI')" />
+	  </div>
+	</form>
+	</div><!-- end div class="spSendInquire" -->
+  </div><!-- end div class="spContact clearfix" --><p class="spVerifiedNotice mt20 clearfix">
+	  <img class="verifiedSupplierIco fl" alt="" src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" />
+	  <span class="fl">
+	    Verified Supplier: This supplier has been verified by Global Sources. Our verification process includes 
+		<a class="ui_popup_window" windowoptions="width=640,height=520" href="http://www.globalsources.com/SITE/QUALITY.HTM">3 or more on-site visits or calls; financial checks; and more...</a>
+	  </span>
+	  </p>
+	  <p class="mw_tip tr">Supplier and product information updated December 20, 2013.</p>
+  
+</div><!--end eiv class="contactUs"  -->
+
+	</div>
+  </div><!-- end div class="mt10 clearfix" --> 
+</div><!-- end div class="mw_wrapper"  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mw_footer mt50">
+  <ul class="shareCont">
+    <li class="footSRIcon">
+      Share/Recommend:
+	  <a class="facebookIco" href="#" onclick="popSocialMedia('FACEBOOK','Supp ECI');return false;">Facebook</a>
+	  <a class="twitterIco" href="#" onclick="popSocialMedia('TWITTER','Supp ECI');return false;">Twitter</a>
+	  <a class="googleIco" href="#" onclick="popSocialMedia('GOOGLEPLUS','Supp ECI');return false;">Google +</a>
+	  <a class="linkedInIco" href="#" onclick="popSocialMedia('LINKEDIN','Supp ECI');return false;">LinkedIn</a>
+    </li>
+    <li>
+      Follow us: <a title="E-mail a friend" href="http://www.globalsources.com/gsol/GeneralManager?&design=clean&language=en&page=supplier/Email&doc=supplier/ContactUs&action=GetSupplier&supplier_id=6008843728893&action=GetPoint&point_id=3000000149681&catalog_id=2000000003844"><img class="emailLongIco" alt="" src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" /></a> 
+	<a title="Bookmark this page" href="javascript:bookmarksite(document.title,location.href)"><img class="bookmarkLongIco" alt="" src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" /></a>
+    </li>
+	
+	
+	<li id="google_translate_bottom">
+        <div class="transBox clearfix" id="transBox">
+        	<span class="googleCon" id="google_translate_overlay"></span>
+			<img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" class="goBtn ui_overlay_close none" alt="" />
+        	<div class="googleNote pr">
+            	<img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" class="questionMarkIco" id="googleQMarkBtn" alt="" />
+            	<p class="questionMark" id="googleQMark">Google Translate is a free translation service provided by Google Inc. The translation is for reference only. Please refer to the original text in English for clarification, if necessary.<span class="cornerArrow"></span></p>
+            </div>
+        </div>
+	</li>
+	
+	
+  </ul>
+  <p class="findMPro mt10">
+    <em>Find More Products:</em>
+	<a href="http://www.globalsources.com/gsol/I/all-manufacturers/b/2000000003844/3000000149681/-1.htm">Browse Product Categories</a>
+	<span class="verLine">|</span>
+	<a href="http://www.globalsources.com/new-products/NL0/Listing.htm">New Products</a>
+	<span class="verLine">|</span>
+	<a href="http://www.chinasuppliers.globalsources.com/SITE/top-china-suppliers.html">Top China Suppliers</a>
+    <span class="verLine">|</span>
+	<a href="http://www.globalsources.com/SITE/topmanufacturers.html">Top Products</a>
+  </p>
+  
+ <div class="GS_copyright">
+<p>Copyright &copy; 2014 Trade Media Holdings Ltd. Copyright &copy; 2014 Trade Media Ltd. <a href="javascript:pop('http://www.globalsources.com/CUSTOMER/ALLRIGHTS.HTM','130','640');">All rights reserved</a>.</p>
+<p class="GS_copyright_link"><a href="http://www.globalsources.com/SITE/TERMSOFUSE.HTM" target="externalWin" rel="nofollow" >Terms of Use</a> <a href="http://www.globalsources.com/HELP/PRIVACY.HTM" target="externalWin" rel="nofollow" >Privacy Policy</a> <a href="http://www.globalsources.com/CUSTOMER/SECMEASURES.HTM" target="externalWin" rel="nofollow" >Security Measures</a> <a href="http://www.globalsources.com/CUSTOMER/IPPOLICY.HTM" target="externalWin" rel="nofollow" >IP Policy</a> <span>hkweb45.globalsources.com</span></p>
+</div><script type="text/javascript">
+<!--
+function pop(page,height,width)
+{
+	var params = "height=" + height + ",width=" + width + ",status=1,toolbar=0,directories=0,menubar=0,location=0,scrollbars=1,resizable=1,top=50,left=50,screenX=50,screenY=50";
+	var mypopup = window.open(page,"PopupWindow",params);
+	mypopup.focus();
+}
+//-->
+</script>
+
+
+
+
+  
+  
+
+</div>
+<meta name="WT.GSOID" content="6008843728893" />
+
+
+
+
+
+
+
+
+	<meta name="google-translate-customization" content="1895465322fd1190-cc65a478d8a8c979-g3346ee71cf332106-15"></meta>
+	<script type="text/javascript">
+	function googleTranslateElementInit() {
+	 	new google.translate.TranslateElement({pageLanguage: 'en', 
+		includedLanguages: 'de,es,fr,id,it,ja,ko,nl,pl,pt,ru,th,tr,vi',
+		layout: google.translate.TranslateElement.InlineLayout.SIMPLE, 
+		gaTrack: true, gaId: 'UA-179370-18'}, 'google_translate_overlay');
+	}
+	</script>
+	<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	<div class="transOverlay" id="transOverlay" data-do="false">
+		<span class="closeOverlay ui_overlay_close" id="closeOverlay1"><img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" class="closeIco" alt="" />Close</span>
+	    <div class="transCon">
+	    	<p class="transTit mg0">Please select your preferred language:</p>
+	        <div id="google_translate_box"></div>
+	        <p class="transNote">If you wish to change the language or use the original language later, please refer to the header or footer for more language options.</p>
+	    </div>
+	</div>
+	
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 WebTrends Inc.  All rights reserved. -->
+<!-- Version: 9.3.0 -->
+<!-- Tag Builder Version: 3.1  -->
+<!-- Created: 1/28/2011 12:20:54 PM -->
+<script src="http://s.globalsources.com/gsol/en/clean/static/webtrends.gsol.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _fpcdom='.globalsources.com';
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://sdc.globalsources.com/dcs4zxlja100004vao3syzti9_1q7z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.3.0&amp;WT.dcssip=www.globalsources.com"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-179370-18']);
+  _gaq.push(['_setDomainName', 'globalsources.com']);
+  _gaq.push(['_setSiteSpeedSampleRate', 3]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contactSupplierBox">
+  <p class="contactTit">
+  <span class="arrow rightArrow"></span>
+  </p>
+  <div class="csFst">
+    <div class="csTit">Contact Supplier<span class="risk">:</span></div>
+	
+
+
+<p class="bold">Ms&nbsp;Linda</p><p>Sales mananger</p>
+  </div><!-- div class="csFst" -->
+  <div class="csSec">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><a class="inquireNowBtn" title="Inquire Now" href="http://www.globalsources.com/gsol/GeneralManager?action=GetInquireNowBasket&page=inquiry/InqForm&supplier_id=6008843728893&inquiry_path=InquireNow_SupplierPage_Right&source=GSOL&doc_class_group=RFI&inqflow_path=NLI"></a></p><p class="addToBasketIco"><a href="http://www.globalsources.com/gsol/GeneralManager?action=AddInquiryItem&redirect_to=this&supplier_id=6008843728893">Add to basket</a></p>
+	
+
+
+
+
+
+
+
+
+<script>var isIMLogin="N"; var imLoginUrl = "https://login.globalsources.com/sso/GeneralManager?action=Login&application=GSOL&appURL=http%3A%2F%2Fwww.globalsources.com%2Fgsol%2FGeneralManager%3F%26design%3Dclean%26language%3Den%26supplier_id%3D6008843728893%26action%3DGetSupplier%26page%3Dsupplier%2FContactUs%26hostname%3Dwww.globalsources.com";</script>
+    <p class="chatIcos clearfix mt10">
+	  <em class="c6 fl">Chat:</em><a title="skype" href="javascript:void(0);" onclick="javascript:checkIM('http://gsim.globalsources.com/gsim/skype/invoke.do?entryType=SKYPE&userId=lindahappybaby&supplierId=6008843728893&callKeyLink=null&IMSource=supplierhome&supplierName=',460,455,'gsim','Yiwu Desai Ornaments Co.,Limited', '', '');"><img src="http://mystatus.skype.com/smallicon/lindahappybaby" border="0" alt="skype" /></a><a title="msn" href="javascript:void(0);" onclick="javascript:checkIM('http://gsim.globalsources.com/gsim/msn/invoke.do?entryType=MSN&userId=lindahappybaby@hotmail.com&supplierId=6008843728893&callKeyLink=null&IMSource=supplierhome&supplierName=',460,455,'gsim','Yiwu Desai Ornaments Co.,Limited', '', '');"><img src="http://s.globalsources.com/gsol/en/clean/images/MSN_ICON.GIF" border="0" alt="msn" /></a>
+		<a title="qq" href="javascript:void(0);" onclick="javascript:checkIM('http://gsim.globalsources.com/gsim/qq/invoke.do?entryType=QQ&userId=672620084&supplierId=6008843728893&callKeyLink=null&IMSource=supplierhome&supplierName=',460,455,'gsim','Yiwu Desai Ornaments Co.,Limited', '', '');"><img src="http://wpa.qq.com/pa?p=1:672620084:4" border="0" alt="qq" /></a>
+		</p>	
+
+  </div><!-- end div class="csSec" -->
+  
+
+
+
+
+
+
+
+<div class="fsBox">
+<div class="csTit">Follow Supplier:</div><p class="follow mt10"><a class="followSupIco" title="Follow me" onclick="decideWhereToGo('/gsol/GeneralManager?&design=clean&language=en&page=prodalert/SAMarketing&source=Supplier_pages&supplier_id=6008843728893&catalog_id=2000000003844&point_id=3000000149681&SAFrom=','','500',location.hostname,'6008843728893');return false;"  href="javascript:void(0)">Follow Me</a></p>
+</div>
+  
+</div><!-- end div class="contactSupplierBox" -->
+<a id="scrollTopBtn" class="scrollTopBtn" href="#">Back to Top</a>
+
+
+
+
+
+
+
+
+
+
+<!--==S supplier list more prodcut box -->
+<div id="morePPBox" class="morePP_PopBox kwRelateLink" style="top: 729.567px; left: 296.5px; display: none;">
+  <dl class="morePP">
+    <dd class="morePP_Pop_img">
+	  <input class="pp_check" type="checkbox" style="display: none;" />
+	  <a title="" href=""><img alt="" src="" height="180" width="180" /></a>
+	</dd>
+    <dd class="supplier_inquire clearfix">
+      <a id="InqBtn" href="#" class="inquireNowBtn" title="Inquire Now">Inquire Now</a>
+      <span class="addbasketrow">
+        <a href="#" id="moAddBsk">Add to basket</a>
+      </span>
+    </dd>
+    <dd class="supplierPP_detail">
+	  <a href="#" id="InqSPD"></a>
+	  <div class="supplier_minOrder">
+		<p id="InqMOQContainer" style="display: block;">
+         <em class="c6">MOQ:</em>
+		 <span id="InqMOQ"></span>
+		</p>
+		<p id="InqFOBContainer" style="display: none;">
+		  <em class="c6">FOB Price:</em>
+		  <span id="InqFOB"></span>
+		</p>
+		<p id="InqCertContainer">
+		  <em class="c6">Certs:</em>
+		  <span id="InqCert"></span>  <a onclick="dcsMultiTrack('DCS.dcsuri', '/More_link.htm', 'WT.ti', 'More Link', 'WT.cg_n', 'More_MouseoverPP', 'WT.source', '');" target="_blank" id="InqCertMore" href="#" class="more">More...</a>
+	    </p>
+		<p id="InqVideoContainer" class="dvideo" style="display: block;">
+		Video:<a id="InqLowUrl" class="dlow ui_popup_video" windowoptions="width=340,height=525" href="#">Low</a><span id="InqLowSize"></span><span class="verLine">|</span><a id="InqHighUrl" class="dhigh ui_popup_video" windowoptions="width=340,height=525" href="#">High</a><span id="InqHighSize"></span>
+		  </p>
+	  </div>
+	</dd>
+  </dl>
+</div>
+<!--==E supplier list more prodcut box -->    
+
+<!--==S supplier service icon popup box -->
+<!--==S Credit Check popup box -->
+<dl id="creditPop" class="creditCheckPopup servicePop" style="left: 533.5px; top: 228.8px; display: none;">
+  <dt class="serviceListTit">
+    <img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" alt="" class="creditCheckIco_b" /> Credit Check
+  </dt>
+  <dd class="serviceListTxt">
+    This supplier has a business registration profile independently verified with relevant government agencies.
+    <a target="_blank" href="#" class="viewDetails UIdata_href" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp CC Mouseover Link', 'WT.cg_s', 'View details','WT.source', '');">View details</a>
+  </dd>
+  <dd class="serviceListImg">
+    <img class="UIdata_img" src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" alt="" />
+  </dd>
+</dl>
+<!--==E Credit Check popup box -->
+
+<!--==S Supplier Capability Assessment popup box -->
+<dl id="bvPop" class="servicePop" style="left: 533.5px; top: 256.8px; display: none;">
+  <dt class="serviceListTit">
+    <img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" alt="" class="bvIco_b" /> Supplier Capability Assessment
+  </dt>
+  <dd class="serviceListTxt">
+    This supplier has a supplier audit from an independent 3rd party.
+    <a target="_blank" href="#" class="viewDetails UIdata_href" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp SCA Mouseover Link', 'WT.cg_s', 'View details','WT.source', '');">View details</a>
+  </dd>
+  <dd class="serviceListImg">
+    <a href="#" class="serviceListTipImg UIdata_href2"  onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp SCA Mouseover Link', 'WT.cg_s', 'Image','WT.source', '');">
+	<img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" alt="" class="UIdata_img"  />
+    <span class="serviceListTip">Click photo to download report</span>
+    </a>          
+  </dd>
+</dl>
+<!--==E Supplier Capability Assessment popup box -->
+
+<!--==S Private Sourcing Event popup box -->
+<dl id="psePop" class="psePopup servicePop" style="left: 533.5px; top: 312.8px; display: none;">
+  <dt class="serviceListTit">
+    <img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" alt="" class="pseIco_b" /> Private Sourcing Event
+  </dt>
+  <dd class="serviceListTxt">
+    This supplier was selected by a volume buyer to attend a Private Sourcing Event. 
+    <p class="serviceList_more mt5"><a target="_blank" href="#" class="UIdata_href" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp PSE Mouseover Link', 'WT.cg_s', 'View details','WT.source', '');">Learn more</a></p>
+  </dd>
+  <dd class="serviceListImg"><img src="http://s.globalsources.com/gsol/en/clean/images/i/PSEIMG.JPG" alt="" width="270" height="99" /></dd>
+</dl>
+<!--==E Private Sourcing Event popup box -->
+
+<!--===S e-Magzines popup box -->
+<dl id="eMagPop" class="eMagPopup servicePop" style="left: 533.5px; top: 340.8px; display: none;">
+  <dt class="serviceListTit">
+    <img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" alt="" class="emagazineIco_b" /> Magazine
+  </dt>
+  <dd class="serviceListTxt">Learn more by viewing this supplier's Magazine ad.</dd>
+  <dd class="serviceListImg">
+    <a target="_blank" href="#" class="UIdata_href2"><img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" alt="" class="UIdata_img" /></a>
+  </dd>
+  <dd class="eMagPopup_link">Download:<a target="_blank" href="#" class="UIdata_href3" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp eMag Mouseover Link', 'WT.cg_s', 'Full Size Ad','WT.source', '');">Full-size ad </a> | <a target="_blank" href="#" class="UIdata_href4" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp eMag Mouseover Link', 'WT.cg_s', 'eMagazines','WT.source', '');">e-Magazine</a> | <a target="_blank" href="#" class="UIdata_href5" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp eMag Mouseover Link', 'WT.cg_s', 'iPad App','WT.source', '');">iPad app</a></dd>
+</dl>
+<!--===S e-Magzines popup box -->
+		
+<!--===S Major customer popup box -->
+<dl id="customerPop" class="customerPopup servicePop" style="left: 533.5px; top: 368.8px; display: none;">
+  <dt class="serviceListTit">
+    <img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" alt="" class="majorCustIco_b" /> Major Customer
+  </dt>
+  <dd class="serviceListTxt">
+    This supplier has worked with the following Major Customers: 
+	<ul id="mcList" class="dotList">
+	</ul>      
+    <p class="serviceList_more"><a target="_blank" href="#" class="UIdata_href" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp Major Customer Mouseover Link', 'WT.cg_s', 'View All','WT.source', '');">View all</a></p>   
+  </dd>
+</dl>
+<!--===S Major customer  popup box -->
+
+<!--===S Sourcing Fair popup box -->
+<dl id="sfPop" class="sfPopup servicePop" style="left: 533.5px; top: 284.8px; display: none;">
+  <dt class="serviceListTit">
+    <img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" alt="" class="csfIco_b" /> Trade Show
+  </dt>
+  <dd class="UIdata_block2 upcomeShow">
+    <p><strong>Come and meet us at the Fair! <a target="_blank" href="#" class="UIdata_upcomingReg" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp CSF Mouseover Link', 'WT.cg_s', 'Register','WT.source', '');">Register</a></strong></p>
+    <p class="UIdata_html">
+    </p>
+  </dd>
+  <dd class="UIdata_block1">
+  	<p>This supplier has exhibited at one or more of our specialized sourcing Trade Shows.</p>
+    <div class="sfBooth clearfix UIdata_block3">
+      <a class="UIdata_href3" href="#" target="_blank"  onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp CSF Mouseover Link', 'WT.cg_s', 'Online Booth','WT.source', '');"><img src="" alt="" class="sfImg UIdata_img" /></a>
+      <ul class="sfInfo dotList UIdata_html2"></ul>
+      <a target="_blank" href="#" class="booth UIdata_href4" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp CSF Mouseover Link', 'WT.cg_s', 'Online Booth','WT.source', '');">Click here to view  the online booth</a>
+    </div>
+  </dd>
+  <dd class="serviceList_more"><a target="_blank" href="#" class="UIdata_href" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp CSF Mouseover Link', 'WT.cg_s', 'View All','WT.source', '');">View all</a></dd>
+</dl>    
+<!--===E Sourcing Fair popup box -->
+
+<!--===S Storefront popup box -->
+<dl id="storeFrontPop" class="bOnlinePopup servicePop" style="left: 533.5px; top: 396.8px; display: none;">
+  <dt class="serviceListTit">
+    <img src="http://s.globalsources.com/gsol/en/clean/images/BLANK.GIF" alt="" class="storeFrontIco_b" /> Online Store
+  </dt>
+  <dd class="serviceListTxt">
+    This supplier has one or more e-commerce storefronts accessible here:   
+	<ul id="storefrontList" class="dotList mt5"></ul> 
+  </dd>
+  <p class="storefront_more"><a class="UIdata_href" target="_blank" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp OS Mouseover Link', 'WT.cg_s', 'Click here to learn more about this supplier','WT.source', '');" href="#">Click here to learn more about this supplier</a></p>
+</dl>
+<!--===E Storefront popup box -->
+<!--===S Hinrich Foundation box -->
+<dl id="hfPop" class="hfPopup servicePop kwRelateLink" style="left: 533.5px; top: 396px; display: none;">
+  <dt class="serviceListTit">
+    <img class="hfLogo" height="34" width="158" alt="" src="http://s.globalsources.com/gsol/en/clean/images/HFLOGO3.JPG" />
+  </dt>
+  <dd class="serviceListTxt">
+    This supplier is a participant in the Hinrich Foundation`s Export Assistance Program, which supports verified export manufacturers in developing countries across Asia.
+	<p class="serviceList_more mt15">
+	<a class="UIdata_href" href="http://www.corporate.globalsources.com/CR/COMM.HTM " target="_blank" onclick="dcsMultiTrack('DCS.dcsuri', '/Mouseover.htm', 'WT.ti', 'Mouseover Links', 'WT.cg_n', 'Supp Hinrich Foundation Mouseover Link', 'WT.cg_s', 'Learn More','WT.source', '')">Learn more</a>
+    </p>
+  </dd>
+</dl>
+<!--===E Hinrich Foundation box -->
+
+
+    
+
+</body>
+
+<script type="text/javascript" src="http://s.globalsources.com/gsol/en/clean/static/s/JQUERY-1.7.2.MIN.JS?R=20140221V1"></script><script type="text/javascript">
+	$(window).resize(function(){		 
+		if (document.getElementById("autoSuggestionId") !=undefined){
+			if (document.getElementById("autoSuggestionId").style.display != 'none'){ 
+				document.getElementById("autoSuggestionId").style.left=document.getElementById("gsolquery").offsetLeft + "px";
+				var offsetTop = document.getElementById("gsolquery").offsetTop + document.getElementById("gsolquery").offsetHeight;
+				document.getElementById("autoSuggestionId").style.top=offsetTop + "px";
+			}
+		}
+	});
+	</script>
+	<script type="text/javascript" src="http://s.globalsources.com/gsol/en/clean/static/s/JQUERY_AUTOCOMPLETE.JS?R=20140221V1"></script><script type="text/javascript" src="http://s.globalsources.com/gsol/en/clean/static/s/EGSOL_WEB_UI.JS?R=20140221V1"></script>
+	<!--[if lt IE 7]> 
+	<script type="text/javascript" src="http://s.globalsources.com/gsol/en/clean/static/s/MINMAX-1.0.JS?R=20140221V1"></script>
+	<![endif]--> <script type="text/javascript" src="http://s.globalsources.com/gsol/en/clean/static/CreateSupplierRelatedScript.js?R=20140221V1"></script><script type="text/javascript" src="http://s.globalsources.com/gsol/en/clean/static/s/SUPPLIER.JS?R=20140221V1"></script>
+<script type="text/javascript">
+if(typeof jQuery == 'undefined') {
+	document.write(unescape("%3Cscript src='http://s.globalsources.com/gsol/en/clean/static/s/JQUERY-1.7.2.MIN.JS?R=20140221V1' type='text/javascript'%3E%3C/script%3E%3Cscript src='http://s.globalsources.com/gsol/en/clean/static/s/DIDYOUFIND_INLINEAD.JS?R=20140221V1' type='text/javascript'%3E%3C/script%3E"));
+} else {
+	document.write(unescape("%3Cscript src='http://s.globalsources.com/gsol/en/clean/static/s/DIDYOUFIND_INLINEAD.JS?R=20140221V1' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+
+</html>
