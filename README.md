@@ -1,0 +1,2 @@
+# SupplierInfoCollector
+一个电商网站供应商信息抓取程序
